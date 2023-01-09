@@ -1,0 +1,63 @@
+.example-body{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top:125px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 125px;
+  margin-right: 300px;
+}
+
+.example-title{
+  margin-left: 140px;
+  font-size: 30px;
+  margin-bottom: 5px;
+  font-weight: bolder;
+  margin-left: 10px;
+  border-bottom: 10px;
+  border: solid;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+}
+
+.example-paragraph1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  word-spacing: 4px;
+  line-height: 30px; 
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  word-spacing: 4px;
+  line-height: 30px; 
+  
+}
+
+.titleparagraph-example{
+  margin-left: 135px;
+  font-size: 22px;
+  margin-bottom: 5px;
+  font-weight: bolder;
+  margin-left: 20px;
+  margin-top: 40px;
+  margin-bottom: 5px;
+
+ }
+
+.bodyparagraph-example{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  word-spacing: 4px;
+  line-height: 30px; 
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  word-spacing: 4px;
+  line-height: 30px; 
+}
+
+.example-img{
+  margin-left: 20px;
+ margin-right: 20px;
+ margin-top: 5px;
+ margin-bottom: 5px;
+}
