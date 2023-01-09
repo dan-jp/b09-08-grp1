@@ -1,0 +1,50 @@
+.topic04{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.topic-row{
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.topic-choices{
+  flex-basis: 31%;
+  background-color: rgb(255, 213, 248);
+  border-radius: 10px;
+  margin-bottom: 5%;
+  padding: 20px 12px;
+  box-sizing: border-box;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-bottom: 50px;
+  transition: 0.5s;
+  
+}
+
+.genderroles-img{
+  width: 275px;
+  margin-top: 30px;
+}
+
+.topic-title{
+  text-align: center;
+  font-size: 45px;
+  margin-top: 100px;
+  font-weight: bold;
+ 
+}
+
+h3{
+  text-align: center;
+  margin: 10px 0; 
+  font-weight: 600;
+}
+
+.topic-choices:hover{
+  box-shadow: 0px 0px 20px 0px black;
+  opacity: 0.7;
+}
