@@ -1,5 +1,7 @@
 .topic04{
 font-family: Arial, Helvetica, sans-serif;
+scroll-behavior: smooth; 
+overflow-y: scroll;
 }
 
 

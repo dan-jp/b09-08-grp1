@@ -29,6 +29,7 @@ body{
   flex-direction: row;
   width: 100%;
   position: fixed;
+  color: black;
 }
 
 .group1-main{
@@ -54,6 +55,7 @@ body{
   justify-content: right;
   padding-right: 80px;
   font-family: 'Rowdies', cursive;
+  
 }
 
 .home-header{
