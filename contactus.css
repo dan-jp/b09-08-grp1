@@ -1,17 +1,40 @@
 .contactus-main{
-  display: flex;
+ display: flex;
   text-align: center;
-  flex-direction: column;
+  flex-direction: row; 
   justify-content: center;
   background-image: url('pictures/overviewpic-2.jpg');
-  opacity: 0.7;
-  padding-top: 175px;
-  padding-bottom: 225px;
-  
+ margin-bottom: 40px;
+  padding-top: 100px;
+  padding-bottom: 225px;  
 }
 
 .contactus-text{
   font-size: 50px;
   opacity: 1;
   font-weight: bolder;
+}
+
+.contact-col input, .contact-col textarea{
+  display: flex;
+  text-align: center;
+  flex-direction: row;
+  justify-content: leftss;
+  width: 900px;
+  padding: 15px;
+  margin-bottom: 17px;
+  outline: none;
+  border: 1px solid;
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  margin-left: 100px;
+}
+
+.send-button{
+  margin-left: 100px;
+  border-color: lightblue;
+  background-color: transparent;
+  font-size: 16px;
+  padding: 5px 5px;
 }
